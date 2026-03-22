@@ -1,0 +1,16 @@
+<div class="event-container" @fadeIn>
+  <h2>Upcoming Events</h2>
+  <div class="event-grid">
+    <div *ngFor="let event of events" class="event-card" [appHighlight]="event.price">
+      <div class="event-header">
+        <h3>{{ event.name }}</h3>
+        <span class="category">{{ event.category }}</span>
+      </div>
+      <div class="event-body">
+        <p><strong>Date:</strong> {{ event.date | date:'mediumDate' }}</p>
+        <p><strong>Ticket Price:</strong> <span class="price">{{ event.price | priceFormat }}</span></p>
+      </div>
+      <div class="premium-tag" *ngIf="event.price > 2000">PREMIUM EVENT</div>
+    </div>
+  </div>
+</div>

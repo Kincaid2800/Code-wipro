@@ -1,0 +1,37 @@
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\appsettings.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.staticwebassets.endpoints.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.exe
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.deps.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.runtimeconfig.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Day 20.pdb
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.csproj.AssemblyReference.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.AssemblyInfoInputs.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.AssemblyInfo.cs
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.csproj.CoreCompileInputs.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.sourcelink.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\scopedcss\bundle\Day 20.styles.css
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.csproj.Up2Date
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\refint\Day 20.dll
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.pdb
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\Day 20.genruntimeconfig.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 20\obj\Debug\net10.0\ref\Day 20.dll

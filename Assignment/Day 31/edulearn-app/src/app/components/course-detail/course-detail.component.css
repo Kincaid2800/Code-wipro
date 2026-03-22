@@ -1,0 +1,52 @@
+.course-detail {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.field {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #495057;
+}
+
+span {
+  font-size: 1.1em;
+  color: #212529;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  font-size: 1em;
+}
+
+input:focus {
+  border-color: #80bdff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+.hint {
+  margin-top: 20px;
+  font-style: italic;
+  font-size: 0.9em;
+  color: #6c757d;
+}
+
+.no-selection {
+  text-align: center;
+  color: #6c757d;
+  padding: 50px 20px;
+  border: 2px dashed #dee2e6;
+  border-radius: 8px;
+}

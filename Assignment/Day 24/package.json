@@ -1,0 +1,21 @@
+{
+  "name": "contact-manager",
+  "version": "1.0.0",
+  "description": "TypeScript Contact Manager Application",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/test/test.js",
+    "test": "npm run build && node dist/test/test.js"
+  },
+  "keywords": [
+    "typescript",
+    "contact",
+    "manager"
+  ],
+  "author": "Antigravity",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

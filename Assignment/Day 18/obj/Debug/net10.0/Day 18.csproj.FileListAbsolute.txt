@@ -1,0 +1,9 @@
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.csproj.AssemblyReference.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.AssemblyInfoInputs.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.AssemblyInfo.cs
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.csproj.CoreCompileInputs.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rajha\Code\Wipro\Assignment\Day 18\obj\Debug\net10.0\Day 18.sourcelink.json

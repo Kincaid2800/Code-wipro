@@ -1,0 +1,16 @@
+Online Movie Catalog System API Routes:
+
+Directors API:
+- GET /api/directors
+- GET /api/directors/{id}
+- POST /api/directors
+- PUT /api/directors/{id}
+- DELETE /api/directors/{id}
+- GET /api/directors/{directorId}/movies
+
+Movies API:
+- GET /api/movies
+- GET /api/movies/{id}
+- POST /api/movies
+- PUT /api/movies/{id}
+- DELETE /api/movies/{id}

@@ -1,0 +1,82 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.main-header {
+  text-align: center;
+  margin-bottom: 4rem;
+}
+
+.main-header h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #1f2937;
+  margin: 0;
+  letter-spacing: -1px;
+}
+
+.pro-badge {
+  background: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
+  color: white;
+  font-size: 1rem;
+  vertical-align: middle;
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  margin-left: 0.5rem;
+}
+
+.subtitle {
+  color: #6b7280;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+}
+
+.fetching-section {
+  margin-bottom: 4rem;
+}
+
+.section-header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #f3f4f6;
+  padding-bottom: 1rem;
+}
+
+.section-header h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #374151;
+  margin: 0;
+}
+
+.status-tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+}
+
+.status-tag.success { background: #d1fae5; color: #065f46; }
+.status-tag.warning { background: #ffedd5; color: #9a3412; }
+
+.books-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.divider {
+  border: 0;
+  border-top: 1px dashed #d1d5db;
+  margin: 4rem 0;
+}
+
+@media (max-width: 640px) {
+  .main-header h1 { font-size: 2.25rem; }
+  .books-grid { grid-template-columns: 1fr; }
+}

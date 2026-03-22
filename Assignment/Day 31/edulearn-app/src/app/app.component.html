@@ -1,0 +1,11 @@
+<div class="container">
+  <h1>EduLearn Course Management</h1>
+  <div class="app-layout">
+    <div class="list-section">
+      <app-course-list (courseSelected)="onCourseSelected($event)"></app-course-list>
+    </div>
+    <div class="detail-section">
+      <app-course-detail [course]="selectedCourse"></app-course-detail>
+    </div>
+  </div>
+</div>

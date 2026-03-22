@@ -1,0 +1,19 @@
+<div *ngIf="course" class="course-detail">
+  <h2>Course Details</h2>
+  <div class="field">
+    <label>Course ID:</label>
+    <span>{{ course.id }}</span>
+  </div>
+  <div class="field">
+    <label>Duration:</label>
+    <span>{{ course.duration }}</span>
+  </div>
+  <div class="field">
+    <label>Title (Edit Mode):</label>
+    <input type="text" [(ngModel)]="course.title" placeholder="Enter course title">
+  </div>
+  <p class="hint">Type in the box above to see real-time updates in the course list.</p>
+</div>
+<div *ngIf="!course" class="no-selection">
+  <p>Please select a course from the list to view its details and edit the title.</p>
+</div>

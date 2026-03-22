@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Atomic Habits",
+    "price": 499,
+    "publishedDate": "2018-10-16",
+    "description": "An easy & proven way to build good habits and break bad ones."
+  },
+  {
+    "id": 2,
+    "title": "Deep Work",
+    "price": 399,
+    "publishedDate": "2016-01-05",
+    "description": "Rules for focused success in a distracted world."
+  },
+  {
+    "id": 3,
+    "title": "Clean Code",
+    "price": 850,
+    "publishedDate": "2008-08-01",
+    "description": "A handbook of agile software craftsmanship."
+  },
+  {
+    "id": 4,
+    "title": "The Pragmatic Programmer",
+    "price": 999,
+    "publishedDate": "1999-10-30",
+    "description": "Your journey to mastery."
+  },
+  {
+    "id": 5,
+    "title": "Refactoring",
+    "price": 1200,
+    "publishedDate": "1999-07-08",
+    "description": "Improving the design of existing code."
+  }
+]
